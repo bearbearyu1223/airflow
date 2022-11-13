@@ -1,2 +1,2 @@
-# airflow
+# Airflow
 Playground for studying Apache Airflow
