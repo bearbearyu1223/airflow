@@ -1,6 +1,6 @@
-### Study Notes
+## Study Notes
 ___
-#### Nov 13, 2022
+### Nov 13, 2022
 * Read this blog post on Medium: [Setting Up Apache Airflow with Docker-Compose in 5 Minutes](https://towardsdatascience.com/setting-up-apache-airflow-with-docker-compose-in-5-minutes-56a1110f4122). 
   * Need install homebrew on Apple Silicon Mac
   ```
